@@ -1,0 +1,20 @@
+{
+  "name": "UEFA ",
+  "description": "UEFA League group ",
+  "authors": [
+    {
+      "name": "Aleksandar Rakić",
+      "email": "info@aleksandarrakic.com",
+      "homepage": "http://www.aleksandarrakic.com",
+      "role": "Software engineer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "App\\": "app"
+    }
+  },
+  "require": {
+    "php": "^7.2.4"
+  }
+}
